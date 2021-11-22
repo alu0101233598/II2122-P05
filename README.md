@@ -81,4 +81,4 @@ Cuando el usuario cambia de modo a `DictationRecognizer`, es necesario liberar l
 
 El funcionamiento del código desarollado puede verse en el siguiente vídeo:
 
-[![Miniatura del vídeo](./img/img4.PNG)](https://youtu.be/xYisqJESGj8)
+[![Miniatura del vídeo](./img/img1.PNG)](https://youtu.be/JhAJ4pX4dks)
