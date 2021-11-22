@@ -7,6 +7,7 @@
 * Interfaces Inteligentes 21/22
 * Universidad de La Laguna
 
+### Tabla de contenidos <!-- omit in toc -->
 - [KeywordRecognizer](#keywordrecognizer)
 - [DictationRecognizer](#dictationrecognizer)
 - [Funcionamiento](#funcionamiento)
